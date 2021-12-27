@@ -1,2 +1,2 @@
-# vhat
+# vchat
 VChat
